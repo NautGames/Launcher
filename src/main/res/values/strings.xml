@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Launcher</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="games">Games</string>
+    <string name="social">Social</string>
+    <string name="media">Media</string>
+    <string name="tools">Utilities</string>
+    <string name="menu_settings">Settings</string>
+    <string name="about_title">Javatechig.com</string>
+    <string name="about_desc">Provides tutorials, tips, examples and source code on leading Java, Android, Blackberry, PhoneGap and other mobile technologies.</string>
+    <string name="action_about">About</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="apps">Apps</string>
+    <string name="num_rows">Number of Rows</string>
+
+</resources>
